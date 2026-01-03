@@ -260,7 +260,7 @@ This bat file simply runs the following command.
 >python ../../../src/TensorFlowFlexUNetEvaluator.py  ./train_eval_infer.config
 </pre>
 Evaluation console output:<br>
-<img src="./projects/TensorFlowFlexUNet/Penobscot/asset/evaluate_console_output_at_epoch50.png" width="880" height="auto">
+<img src="./projects/TensorFlowFlexUNet/Penobscot/asset/evaluate_console_output_at_epoch60.png" width="880" height="auto">
 <br><br>Image-Segmentation-Penobscot
 
 <a href="./projects/TensorFlowFlexUNet/Penobscot/evaluation.csv">evaluation.csv</a><br>
@@ -379,21 +379,29 @@ https://arxiv.org/pdf/1903.12060
 </a>
 <br>
 <br>
-<b>6. TensorFlow-FlexUNet-Image-Segmentation-Model</b><br>
+<b>6. Semantic Segmentation of Seismic Images</b><br>
+Daniel Civitarese, Daniela Szwarcman,  Emilio Vital Brazil, and Bianca Zadrozny<br>
+<a href="https://ar5iv.labs.arxiv.org/html/1905.04307">
+https://ar5iv.labs.arxiv.org/html/1905.04307
+</a>
+<br>
+<br>
+
+<b>7. TensorFlow-FlexUNet-Image-Segmentation-Model</b><br>
 Toshiyuki Arai <br>
 <a href="https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model">
 https://github.com/sarah-antillia/TensorFlow-FlexUNet-Image-Segmentation-Model
 </a>
 <br>
 <br>
-<b>7. TensorFlow-FlexUNet-Image-Segmentation-Facies</b><br>
+<b>8. TensorFlow-FlexUNet-Image-Segmentation-Facies</b><br>
 Toshiyuki Arai<br>
 <a href="https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-Facies">
 https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-Facies
 </a>
 <br>
 <br>
-<b>8. TensorFlow-FlexUNet-Image-Segmentation-Netherland-F3-Interpretation</b><br>
+<b>9. TensorFlow-FlexUNet-Image-Segmentation-Netherland-F3-Interpretation</b><br>
 Toshiyuki Arai <br>
 <a href="https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-Netherland-F3-Interpretation">
 https://github.com/atlan-antillia/TensorFlow-FlexUNet-Image-Segmentation-Netherland-F3-Interpretation
